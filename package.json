@@ -1,0 +1,27 @@
+{
+  "name": "nodemongo",
+  "version": "1.0.0",
+  "description": "conexion a mongodb desde node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mellambias/mongonode.git"
+  },
+  "keywords": [
+    "mongodb",
+    "node",
+    "js"
+  ],
+  "author": "mellambias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mellambias/mongonode/issues"
+  },
+  "homepage": "https://github.com/mellambias/mongonode#readme",
+  "dependencies": {
+    "mongodb": "^4.11.0"
+  }
+}
